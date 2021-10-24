@@ -16,7 +16,7 @@ export const Navbar = ({darkTheme, setDarkTheme}) => {
                     {darkTheme ? 'Light☀️' : 'Dark🌙'}
                 </button>
             </div>
-            Navbar
+            <Search />
         </div>
     )
 }

@@ -1,12 +1,9 @@
 import React from 'react'
 
-export const Search = () => {
+export const Results = () => {
     return (
         <div>
-            search component
-            
+            Results
         </div>
     )
 }
-
-
